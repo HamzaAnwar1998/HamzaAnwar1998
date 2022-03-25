@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### My Stats
+<img src="https://github-readme-stats.vercel.app/api?username=HamzaAnwar1998&count_private=true&layout=compact&theme=tokyonight" alt="my_stats"/>
+
+### Most Languages Used
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAnwar1998&layout=compact&theme=tokyonight" alt="my_stats"/>
